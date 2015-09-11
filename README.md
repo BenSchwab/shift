@@ -23,11 +23,8 @@ Shift continues to be immensely helpful for building the Coursera Android applic
 
 ####Gradle
 ``` java
-compile 'org.coursera.android:shift:1.0.1'
+compile 'org.coursera.android:shift:1.0.2'
 ```
-####Manual
-
-Clone the repo and then open your Android Studio project. Go to : **File -> Project Structure -> Add a New Module (+) -> Phone And Tablet Application -> Import Existing Project** and select the shift folder.
 
 #Usage
 Shift has 3 main components:
